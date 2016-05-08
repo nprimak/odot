@@ -55,8 +55,8 @@
       <file leaf-file-name="create_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/features/todo_lists/create_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6086956">
-              <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.67391306">
+              <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -100,8 +100,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="y" value="25" />
+    <option name="x" value="286" />
+    <option name="y" value="23" />
     <option name="width" value="794" />
     <option name="height" value="820" />
   </component>
@@ -813,15 +813,15 @@
       <option name="number" value="Default" />
       <updated>1462649847716</updated>
       <workItem from="1462649849843" duration="233000" />
-      <workItem from="1462650116369" duration="3079000" />
+      <workItem from="1462650116369" duration="4142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3312000" />
+    <option name="totallyTimeSpent" value="4375000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="25" width="794" height="820" extended-state="0" />
+    <frame x="286" y="23" width="794" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -973,8 +973,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/features/todo_lists/create_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6086956">
-          <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.67391306">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
           <folding />
         </state>
       </provider>
