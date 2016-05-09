@@ -45,6 +45,8 @@ end
 group :test do
   # Using Capybara for Odot application
   gem 'capybara', '~> 2.1.0'
+  gem 'minitest'
+  gem 'shoulda-matchers', '~> 2.4.0'
 end
 
 #group :development do
