@@ -3,7 +3,7 @@ require 'minitest/autorun'
 
 describe "Viewing todo items" do
   let!(:todo_list) {TodoList.create(title: "Grocery List", description: "Groceries") }
-  
+
   it "displays the title of the todo list" do
     visit_todo_list(todo_list)
     within("h1") do
